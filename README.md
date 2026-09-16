@@ -30,8 +30,9 @@
 
 - [Переименование PostgreSQL-слоёв в QGIS](https://github.com/max-dzhabarov/qgis-postgresql-layer-renamer) — PyQGIS-скрипт для приведения имён слоёв к формату `schema_table`.
 - [Нормализация геометрии в PostGIS](https://github.com/max-dzhabarov/postgis-geometry-normalization) — триггерная функция для безопасной подготовки полигональной геометрии перед сохранением.
-
-Новые демонстрационные проекты будут добавляться по мере подготовки обезличенных и воспроизводимых версий рабочих решений.
+- [Анализ транспортной доступности](https://github.com/max-dzhabarov/postgis-accessibility-analysis) — воспроизводимый пример расчёта доступности объектов по дорожному графу с PostGIS и pgRouting.
+- [Осевые линии дорожных полигонов](https://github.com/max-dzhabarov/postgis-road-centerlines) — устойчивое построение осевых линий с нормализацией проблемных геометрий и резервными сценариями.
+- [Сводные данные по АГР](https://github.com/max-dzhabarov/postgis-urban-data-integration) — демонстрационный ETL-процесс объединения семи табличных и пространственных источников в материализованное представление.
 
 ---
 
@@ -67,5 +68,6 @@ I contribute to the support of a corporate GIS environment that includes:
 
 - [Renaming PostgreSQL layers in QGIS](https://github.com/max-dzhabarov/qgis-postgresql-layer-renamer) — a PyQGIS script that renames layers using the `schema_table` convention.
 - [Geometry normalization in PostGIS](https://github.com/max-dzhabarov/postgis-geometry-normalization) — a trigger function for safely preparing polygon geometries before they are saved.
-
-More reproducible, anonymized versions of production-inspired GIS solutions will be added over time.
+- [Network accessibility analysis](https://github.com/max-dzhabarov/postgis-accessibility-analysis) — a reproducible PostGIS and pgRouting example for measuring facility accessibility over a road graph.
+- [Road-polygon centerlines](https://github.com/max-dzhabarov/postgis-road-centerlines) — resilient centerline generation with invalid-geometry cleanup and fallback strategies.
+- [Consolidated AGR data](https://github.com/max-dzhabarov/postgis-urban-data-integration) — a demonstration ETL workflow that merges seven tabular and spatial sources into a materialized view.
