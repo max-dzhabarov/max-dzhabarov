@@ -1,6 +1,4 @@
-# Привет! Я Max Dzhabarov 👋
-
-Я ГИС-инженер, специализирующийся на пространственных базах данных, автоматизации обработки геоданных и сопровождении геоинформационной инфраструктуры.
+# ГИС-инженер, специализирующийся на пространственных базах данных, автоматизации обработки геоданных и сопровождении геоинформационной инфраструктуры.
 
 ## Чем я занимаюсь
 
@@ -36,9 +34,7 @@
 
 ---
 
-# Hello! I'm Max Dzhabarov 👋
-
-I am a GIS Engineer specializing in spatial databases, geodata processing automation, and geospatial infrastructure support.
+# GIS Engineer specializing in spatial databases, geodata processing automation, and geospatial infrastructure support.
 
 ## What I do
 
